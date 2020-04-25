@@ -1,0 +1,57 @@
+.rewardContainer {
+  width: 80%;
+  margin: 20px auto;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+h3 {
+  margin: 0;
+  padding: 10px;
+  background: #dedede;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 18px;
+  border: 1px solid;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+thead {
+  background-color: #faebd7;
+}
+
+th {
+  padding: 8px 0;
+}
+
+td {
+  padding: 4px 0;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  border: 1px solid;
+}
+
+li {
+  padding: 8px 0;
+  border-bottom: 1px solid;
+  text-align: center;
+}
+
+li:nth-last-child(1) {
+  border-bottom: 0px;
+}
